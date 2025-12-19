@@ -1,4 +1,4 @@
-#Income API – Kubernetes Deployment & Autoscaling
+Income API – Kubernetes Deployment & Autoscaling
 📌 Overview
 
 Income API is deployed on Kubernetes and automatically scales based on CPU usage using Horizontal Pod Autoscaler (HPA).
